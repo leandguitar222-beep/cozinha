@@ -1,5 +1,6 @@
 {
   "name": "FlavorFlow - Seu Cozinheiro Digital",
   "description": "Uma plataforma de receitas intuitiva e moderna para facilitar sua jornada culinária com modo passo a passo, temporizador integrado e sugestões inteligentes de IA.",
+  "version": "1.1.0",
   "requestFramePermissions": []
 }
